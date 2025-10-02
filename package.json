@@ -1,0 +1,16 @@
+{
+  "name": "3jstest",
+  "version": "1.0.0",
+  "description": "Developing 3js tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
