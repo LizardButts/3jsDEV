@@ -1,3 +1,8 @@
+/* To run this code on a local server, enter the following into the terminal:
+parcel ./index.html
+*/
+
+
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/Addons.js';
 

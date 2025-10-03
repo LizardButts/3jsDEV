@@ -714,7 +714,9 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"2xGku":[function(require,module,exports,__globalThis) {
-var _three = require("three");
+/* To run this code on a local server, enter the following into the terminal:
+parcel ./index.html
+*/ var _three = require("three");
 var _addonsJs = require("three/examples/jsm/Addons.js");
 const renderer = new _three.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
